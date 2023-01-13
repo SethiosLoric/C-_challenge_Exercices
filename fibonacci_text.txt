@@ -1,0 +1,2 @@
+La fonction Fibonacci () calcule le nombre de Fibonacci à 
+une certaine position dans une séquence spécifiée par le numéro de début et de fin.
