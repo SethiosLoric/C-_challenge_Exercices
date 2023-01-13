@@ -1,7 +1,9 @@
 #include <iostream>
 
-using std::cout; using std::cin;
-using std::endl; using std::string;
+using std::cout; 
+using std::cin;
+using std::endl; 
+using std::string;
 
 void generateFibonacci(unsigned long long n)
 {
@@ -29,7 +31,7 @@ int main()
 {
     unsigned long long num;
 
-    cout << "Enter the number of items to generate Fibonacci series: ";
+    cout << "Entrer le nombres pour la suite de fibonacci: ";
     cin >> num;
 
     generateFibonacci(num);
