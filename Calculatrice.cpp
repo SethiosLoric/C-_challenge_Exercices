@@ -15,7 +15,7 @@ int main()
       double entier1, entier2;
       char signe1[1000], exit[3];
 
-      cout <<"Bienvenue sur Calculator version 1.vous allez pourvoir \ncalculer le sinus, cosinus, tangeante, le carre, la racine carre (attention, surle programme racine carre ce note racine) et * - + /.\n\n\n";
+      cout <<"Bienvenue sur Calculator version 1.vous allez pourvoir \ncalculer le sinus, cosinus, tangeante, le carre, la racine carre (attention, sur le programme racine carre ce note racine) et * - + /.\n\n\n";
 
 while(1)
 {
